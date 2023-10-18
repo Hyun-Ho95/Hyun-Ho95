@@ -11,12 +11,13 @@
 <!-----------------깃허브 status & 사용 언어 통계----------------------------------------->
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Ho95&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Ho95&count_private=true&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-Ho95&layout=compact&theme=dracula)](https://github.com/Hyun-Ho95/github-readme-stats)
 
 </div>
+<!-----------------교육 내용 ----------------------------------------->
 <hr>
-Education 📚
+<h3> Education 📚 </h3>
 
 2023/09 - 2023/10 데이터리안📊 SQL 입문반 수료
 
@@ -25,9 +26,10 @@ Education 📚
 
 
 <hr>
-<!-----------------깃허브 status & 사용 언어 통계----------------------------------------->
+<!-----------------테크 스택----------------------------------------->
 </div>
-Tech Stack 🌱
+<h3> Tech Stack 🌱 </h3>
+
 
 << Language >>
 
@@ -48,6 +50,8 @@ Tech Stack 🌱
 << Etc >>
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+<hr>
 
 <!--
 **Hyun-Ho95/Hyun-Ho95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
