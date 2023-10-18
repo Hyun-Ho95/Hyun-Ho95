@@ -11,17 +11,27 @@
 <!-----------------깃허브 status & 사용 언어 통계----------------------------------------->
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Ho95&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-Ho95&layout=compact)](https://github.com/Hyun-Ho95/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Ho95&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-Ho95&layout=compact&theme=dracula)](https://github.com/Hyun-Ho95/github-readme-stats)
+
+</div>
+<hr>
+Education 📚
+
+2023/09 - 2023/10 데이터리안📊 SQL 입문반 수료
+
+2022/12 - 2023/05 멋쟁이사자처럼🦁 AI/빅데이터스쿨 8기 수료
+
+
 
 <hr>
+<!-----------------깃허브 status & 사용 언어 통계----------------------------------------->
 </div>
-🌱 Tech Stack 🌱
+Tech Stack 🌱
 
 << Language >>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
 << Other Skill >>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -32,7 +42,7 @@
 
 << Tool >>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/><img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 
 << Etc >>
