@@ -11,7 +11,7 @@
 <!-----------------깃허브 status & 사용 언어 통계----------------------------------------->
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Ho95&count_private=true&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Ho95&&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-Ho95&layout=compact&theme=dracula)](https://github.com/Hyun-Ho95/github-readme-stats)
 
 </div>
